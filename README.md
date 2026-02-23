@@ -32,11 +32,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
 
+<!-- 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
+-->
 
 ### SIEM
 <div>
@@ -54,14 +55,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- GNNs for malware detection
-- Digital Forensic Investigation
-- Secure Rowing Shop - Full stack web application
-- Risk Management for The Chronicle
-- Quantum Safe messaging application
-- Identity and Access Management
+- <a href="https://github.com/wlmchase/macsec-gnn">GNNs for malware detection</a>
+- <a href="https://github.com/wlmchase/macsec-df-investigation">Digital Forensic Investigation </a>
+- <a href="https://github.com/wlmchase/macsec-rowing-shop">Secure Rowing Shop - Full stack web application </a>
+- <a href="https://github.com/wlmchase/macsec-risk-management">Risk Management for The Chronicle </a>
+- <a href="https://github.com/wlmchase/macsec-qs-app">Quantum Safe messaging application </a>
+- <a href="https://github.com/wlmchase/macsec-iam">Identity and Access Management </a>
 
 ## Surveys and Papers
-- Zero Knowledge Proofs for AI model validation
-- Survey on SHAP XAI technique in Cybersecurity, Healthcare, Law, and Finance
-- Survey on Computer Worms
+- <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/ZKPs.pdf">Zero Knowledge Proofs for AI model validation</a>
+- <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS6735_XAI_SHAP.pdf">Survey on SHAP XAI technique in Cybersecurity, Healthcare, Law, and Finance</a>
+- <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS2413_survey_of_worms.pdf">Survey on Computer Worms</a>
+- <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS6865_manet.pdf">Exploring MANET routing </a>
