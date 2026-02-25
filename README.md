@@ -1,17 +1,13 @@
 # Hello, I'm Mackenzie
-<!-- <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-
-<!-- [Brief Introduction - Remove this afterwards] -->
 
 I am a recent graduate with a profound interest in technology and cybersecurity.
 
 ## Objective
-<!-- [Provide Objective - Remove this afterwards]] -->
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into the field.
 
 ## Skills
-<!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!-- 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -25,11 +21,28 @@ My journey in computer science has led me to develop a passion for cybersecurity
  -->
  
 ## Tools
-<!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
+
+### Programming
+
+<div>
+ <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+ <img src="https://img.shields.io/badge/-FastAPI-009688?&style=for-the-badge&logo=FastAPI&logoColor=white" />
+ <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+ <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Java-007396?&style=for-the-badge&logo=Java&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-004B8D?&style=for-the-badge&logo=Nmap&logoColor=white" />
+</div>
+
+### AI / ML
+<div>
+    <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=PyTorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/-PyTorch_Geometric-3C2179?&style=for-the-badge&logo=PyG&logoColor=white" />
 </div>
 
 <!-- 
@@ -47,9 +60,12 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Forensics
 <!-- Volatilty 2 & 3 -->
+<div>
+ <img src="https://img.shields.io/badge/-Volatility-4B0082?&style=for-the-badge&logo=V&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+</div>
 
 ## Certifications
-<!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] -->
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
@@ -67,3 +83,17 @@ My journey in computer science has led me to develop a passion for cybersecurity
 - <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS6735_XAI_SHAP.pdf">Survey on SHAP XAI technique in Cybersecurity, Healthcare, Law, and Finance</a>
 - <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS2413_survey_of_worms.pdf">Survey on Computer Worms</a>
 - <a href="https://github.com/wlmchase/macsec-surveys-and-papers/blob/main/CS6865_manet.pdf">Exploring MANET routing </a>
+
+<!--
+## Extras & Misc
+
+<div>
+ <img src="https://img.shields.io/badge/-TryHackMe-212C42?&style=for-the-badge&logo=TryHackMe&logoColor=white" />
+ <img src="https://img.shields.io/badge/-Hack_The_Box-9FEF00?&style=for-the-badge&logo=HackTheBox&logoColor=black" />
+</div>
+
+
+<img src="https://img.shields.io/badge/-MITRE_ATT%26CK-E31F26?&style=for-the-badge&logo=MITRE&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP-000000?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Open_Quantum_Safe-6B3FA0?&style=for-the-badge&logo=OpenSSL&logoColor=white" />
+-->
